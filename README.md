@@ -108,14 +108,17 @@ Custom n8n workflow solutions for fulfillment operations, webhook synchronizatio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1a2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" height="170"/>
+![GitHub followers](https://img.shields.io/github/followers/dmdfajardo00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00d9ff)
+![GitHub User's stars](https://img.shields.io/github/stars/dmdfajardo00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00d9ff)
+![Profile Views](https://komarev.com/ghpvc/?username=dmdfajardo00&style=for-the-badge&color=00d9ff&labelColor=1a1a2e)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff" alt="Top Languages" height="170"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dmdfajardo00&theme=tokyo-night&hide_border=true&bg_color=1a1a2e&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
