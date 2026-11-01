@@ -1,5 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/floor-dark.svg"><img src="assets/floor-light.svg" alt="Pixel art workshop floor seen from above, with a DF sign, machines, a robot arm and a forklift. Dave Matthew Fajardo. Work out what to build. Then build it properly." width="100%"></picture>
 
+<div align="center"><a href="https://cal.com/dmd-fajardo/project-consultation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/book-dark.svg"><img src="assets/book-light.svg" alt="Book a call" width="180"></picture></a></div>
+
 Independent technical consultant and full-stack developer, based in the Philippines. I help founders and growing teams turn business problems into working software. Clients in the Netherlands, the US and the Philippines. I work European hours.
 
 Former licensed physical therapist, self-taught into software.
@@ -82,4 +84,4 @@ Former licensed physical therapist, self-taught into software.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chart-waffle-dark.svg"><img src="assets/chart-waffle-light.svg" alt="Waffle chart: 29,973 of 30,288 contributions landed in private repos" width="100%"></picture>
 
-<div align="center"><a href="https://cal.com/dmd-fajardo/project-consultation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/book-dark.svg"><img src="assets/book-light.svg" alt="Book a call" width="154"></picture></a></div>
+<a href="https://dmdfajardo.pro/#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.svg"><img src="assets/project-light.svg" alt="Work on a project" width="100%"></picture></a>
