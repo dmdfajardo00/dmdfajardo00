@@ -6,7 +6,7 @@ Independent technical consultant and full-stack developer, based in the Philippi
 
 Former licensed physical therapist, self-taught into software.
 
-<a href="https://dmdfajardo.pro"><img src="assets/icon-site.svg" alt="DF" width="16" align="absmiddle"> dmdfajardo.pro</a> / <a href="https://www.linkedin.com/in/dave-fajardo-686374188/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="16" align="absmiddle"> LinkedIn</a> / <a href="mailto:dmd.fajardo2000@gmail.com"><img src="assets/icon-email.svg" alt="Gmail" width="16" align="absmiddle"> Email</a>
+<a href="https://dmdfajardo.pro"><img src="assets/icon-site.svg" alt="DF" width="16" align="absmiddle"> dmdfajardo.pro</a> / <a href="https://www.linkedin.com/in/dave-fajardo-686374188/"><img src="assets/icon-linkedin.svg" alt="LinkedIn" width="16" align="absmiddle"> LinkedIn</a> / <a href="mailto:dave@dmdfajardo.pro"><img src="assets/icon-email.svg" alt="Gmail" width="16" align="absmiddle"> Email</a>
 
 <div align="center"><img src="assets/desk.png" alt="Pixel art of Dave in a green fleece typing at a desk with a mug, beside flags of the Netherlands, the US and the Philippines" width="231"> <img src="assets/pt-bench.png" alt="Pixel art of a physical therapy table with a laptop open on it, beside an anatomy skeleton" width="264"></div>
 
